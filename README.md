@@ -7,7 +7,7 @@ This API provides information about Indian pincodes. The data is retrieved from 
 
 ```
 
-https://{baseUrl}/api/
+https://pincode.cyclic.app/api/
 
 ```
 
